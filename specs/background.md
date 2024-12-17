@@ -28,7 +28,7 @@
 
 The OP Stack is a decentralized software stack maintained by the OP Stack that forms the backbone of blockchains like
 [OP Mainnet](https://explorer.optimism.io/) and [Base](https://base.org). The OP Stack provides the infrastructure for
-operating EVM equivalent rollup blockchains designed to scale Ethereum while remaining maximally compatible with
+operating EVM equivalent rollup blockchains designed to Scale Ethereum while remaining maximally compatible with
 existing Ethereum infrastructure. This document provides an overview of the protocol to provide context for the rest of
 the specification.
 
@@ -39,7 +39,7 @@ the specification.
 Scaling Ethereum means increasing the number of useful transactions the Ethereum network can process. Ethereum's
 limited resources, specifically bandwidth, computation, and storage, constrain the number of transactions which can be
 processed on the network. Of the three resources, computation and storage are currently the most significant
-bottlenecks. These bottlenecks limit the supply of transactions, leading to extremely high fees. Scaling ethereum and
+bottlenecks. These bottlenecks limit the supply of transactions, leading to extremely high fees. Scaling Ethereum and
 reducing fees can be achieved by better utilizing bandwidth, computation and storage.
 
 ### Optimistic Rollups
